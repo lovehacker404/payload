@@ -43,8 +43,8 @@ norml = "\033[0m"
 def banner ():
 	os.system ("clear")
 	print (" \n ")
-        print (c+fore+"                   ./ymM0dayMmy/.")
-        print (c+fore+"                   -+dHJ5aGFyZGVyIQ==+-")
+        print (c+fore+"                   ./ymM0dayMmy/. ")
+        print (c+fore+"                   -+dHJ5aGFyZGVyIQ==+- ")
         print (c+fore+"               `:sm⏣~~Destroy.No.Data~~s:`")
         print (c+fore+"          -+h2~~Maintain.No.Persistence~~h+-")
         print (c+fore+"       `:odNo2~~Above.All.Else.Do.No.Harm~~Ndo:`")
