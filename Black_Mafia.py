@@ -38,37 +38,6 @@ blue = "\033[1;34m"
 cyan = "\033[1;36m"
 norml = "\033[0m"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def banner ():
 	os.system ("clear")
 	print (" \n ")
