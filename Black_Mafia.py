@@ -1,4 +1,4 @@
-#!/usr/bin/python2 env
+#!/usr/bin/python3 env
 
 
 
@@ -10,7 +10,9 @@ import Payloads.pld_types as plds
 
 
 # Cooded By : lovehacker
-# Youtube   : BlackMafia
+# Youtube   : https://youtube.com/c/BlackMafia
+# Github    : https://github.com/lovehacker404
+# Instagram : BlackMafia
 
 
 
@@ -27,16 +29,14 @@ os.system ("clear")
 
 
 def finaly ():
-	print (c+"\033[1;31m __________________________________")
+	print (c+"\033[1;34m __________________________________")
 	print (c+"|                                  |")
-	print (c+"| \033[1;32mCooded By \033[1;34m :----->>   \033[1;34m lovehacker   \033[1;34m|")
-	print (c+"| \033[1;32mYoutube   \033[1;34m :----->>   \033[1;34m BlackMafia \033[1;34m|")
+	print (c+"| \033[1;36mCooded By \033[1;34m :----->>   \033[1;31m lovehacker   \033[1;34m|")
+	print (c+"| \033[1;36mYoutube   \033[1;34m :----->>   \033[1;31m BlackMafia \033[1;34m|")
+	print (c+"| \033[1;36mInsagram  \033[1;34m :----->>   \033[1;31m BlackMafia \033[1;34m|")
+	print (c+"| \033[1;36mGitHub    \033[1;34m :----->>   \033[1;31m lovehacker404 \033[1;34m|")
 	print (c+"|__________________________________|")
 
-	
-	
-	
-	
 # colors.
 blue = "\033[1;34m"
 cyan = "\033[1;36m"
