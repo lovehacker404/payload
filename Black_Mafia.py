@@ -33,10 +33,16 @@ def finaly ():
 	print (c+"| \033[1;32mYoutube   \033[1;34m :----->>   \033[1;34m BlackMafia \033[1;34m|")
 	print (c+"|__________________________________|")
 
+	
+	
+	
+	
 # colors.
 blue = "\033[1;34m"
 cyan = "\033[1;36m"
 norml = "\033[0m"
+
+
 
 def banner ():
 	os.system ("clear")
