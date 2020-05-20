@@ -44,6 +44,31 @@ norml = "\033[0m"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def banner ():
 	os.system ("clear")
 	print (" \n ")
